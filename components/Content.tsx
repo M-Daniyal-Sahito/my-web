@@ -18,7 +18,7 @@ const Content = () => {
         </h1>
         <p className=" text-[30px] font-['Timmana'] mt-4 bg-transparent">
           I specialize in creating responsive and modern websites using HTML,
-          CSS, JavaScript, and Next.js. My focus is on clean code and
+          CSS, JavaScript, Typescript, Tailwind css and Next.js. My focus is on clean code and
           user-friendly design. Explore my portfolio to see my latest work.
         </p>
       </div>

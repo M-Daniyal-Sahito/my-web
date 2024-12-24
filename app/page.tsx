@@ -47,6 +47,7 @@ const Home = () => {
 
   return (
     <>
+    
       {/* Navbar with scrollToProject, scrollToContact, and hideSections */}
       <Navbar scrollToProject={scrollToProject} scrollToContact={scrollToContact} hideSections={hideSections} />
 
@@ -67,6 +68,7 @@ const Home = () => {
       )}
 
       <Footer />
+    
     </>
   );
 };
